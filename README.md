@@ -1,2 +1,3 @@
-# Sending_Email_In_Java
-Sending email in java the right way
+Details here:
+
+https://www.stacksolving.com/2022/05/sending-emails-in-java-using-java-mail.html
